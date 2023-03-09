@@ -7,7 +7,7 @@
     <li>🤩️ Fascinado por Tecnologia, Animes, Xadrez e E-sports.</li>
     <li>💻 Estudo no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, mas já passei pela <a href="https://www.udemy.com/" target="_blank">Udemy</a>,<a href="https://www.cursoemvideo.com/" target="_blank"> Curso em Video</a>.
     <li>🔭 Com mais de 5 meses de <b>experiência</b>, tenho autonomia em diversas das tecnologias Front-end mais relevantes do mercado.</li>
-    <li>🚀 Evoluindo exponencialmente em <strong>ReactJS</strong> e em seu ecossistema.</li>
+    <li>🚀 Evoluindo exponencialmente em <strong>HTML e CSS</strong>.</li>
     <li>⚡ Fun fact: Eu estruturo minha rotina em Javascript.</li>
 </ul>
 <br>
