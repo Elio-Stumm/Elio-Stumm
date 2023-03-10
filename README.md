@@ -1,7 +1,7 @@
 <img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/120290865/224124879-295ae798-1e35-4a35-bb3a-5ebe457876c4.gif"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
-<img align="right" src="https://i.pinimg.com/originals/bf/53/b9/bf53b9159030202b00d5cce62e476c31.gif" width="290px" height="250px" alt="anime chilling">
+<img align="right" src="https://i.pinimg.com/originals/bf/53/b9/bf53b9159030202b00d5cce62e476c31.gif" width="220px" height="220px" alt="anime chilling">
 
 <ul align="left">
     <li>🤩️ Fascinado por Tecnologia, Animes, Xadrez e E-sports.</li>
@@ -12,7 +12,7 @@
 </ul>
 <br>
 
-<h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
+<h2 align="center">🤖 &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
 <img align="left" width="268px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 <table align="right" height="267px">
   <tr>
