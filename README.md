@@ -13,7 +13,7 @@
 <br>
 
 <h2 align="center">🤖 &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
-<img align="left" width="268px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
+<img align="left" width="390px" alt="quote" src="https://s.aficionados.com.br/imagens/frases-naruto-2_cke.jpg"/>
 <table align="right" height="267px">
   <tr>
     <td align="center">
@@ -101,7 +101,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://w7.pngwing.com/pngs/641/960/png-transparent-windows-10-windows-8-microsoft-operating-systems-windows-logos-blue-angle-text-thumbnail.png" width="80px" alt="Windows icon"/><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Windows_10x_Icon.png/1200px-Windows_10x_Icon.png" width="65px" alt="Windows icon"/><br>
       <sub>
         <b>
           <pre>Windows</pre>
