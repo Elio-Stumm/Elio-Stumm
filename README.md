@@ -113,8 +113,6 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
-<img align="left" width="185px" src="" alt="anime coding">
-<br><br>
 <p align="center">
   <a href="https://www.canva.com/design/DAFcouewFm8/BBHuEo2SDjp2yOPtEphLZQ/view?utm_content=DAFcouewFm8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="Resume badge">
