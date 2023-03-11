@@ -113,7 +113,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
-<img align="left" width="185px" src="https://i.pinimg.com/originals/d2/41/fc/d241fc0b09e76015f239c59b5abf6624.gif" alt="anime coding">
+<img align="left" width="185px" src="" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://www.canva.com/design/DAFcouewFm8/BBHuEo2SDjp2yOPtEphLZQ/view?utm_content=DAFcouewFm8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
