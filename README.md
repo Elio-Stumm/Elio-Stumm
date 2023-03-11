@@ -25,68 +25,10 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="NextJS icon"/><br>
-      <sub>
-        <b>
-          <pre>NextJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="Vite icon"/><br>
-      <sub>
-        <b>
-          <pre>ViteJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br>
-      <sub>
-        <b>
-          <pre>Tailwind</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
-      <sub>
-        <b>
-          <pre>Bootstrap</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-    <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon"/><br>
-      <sub>
-        <b>
-          <pre>Styled<br>Components</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br>
       <sub>
         <b>
           <pre>Typescript</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br>
-      <sub>
-        <b>
-          <pre>Sass</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="65px" alt="Axios icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;Axios&ensp;</pre>
         </b>
       </sub>
     </td>
@@ -98,32 +40,6 @@
         </b>
       </sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express icon"/><br>
-      <sub>
-        <b>
-          <pre>Express</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=regex" width="65px" alt="Regex icon"/><br>
-      <sub>
-        <b>
-          <pre>Regex</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
-      <sub>
-        <b>
-          <pre>Insomnia</pre>
-        </b>
-      </sub>
-    </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br>
       <sub>
@@ -132,15 +48,7 @@
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="JQuery icon"/><br>
-      <sub>
-        <b>
-          <pre>JQuery</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
+      </tr>
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br>
@@ -174,6 +82,8 @@
         </b>
       </sub>
     </td>
+      </tr>
+  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
       <sub>
@@ -182,8 +92,6 @@
         </b>
       </sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
       <sub>
@@ -193,10 +101,10 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/205502680-8c4634eb-5032-446c-a5ff-d669a0fa787c.png" width="80px" alt="Linux and Windows icon"/><br>
+      <img src="https://w7.pngwing.com/pngs/641/960/png-transparent-windows-10-windows-8-microsoft-operating-systems-windows-logos-blue-angle-text-thumbnail.png" width="80px" alt="Windows icon"/><br>
       <sub>
         <b>
-          <pre>Linux /<br>Windows</pre>
+          <pre>Windows</pre>
         </b>
       </sub>
     </td>
