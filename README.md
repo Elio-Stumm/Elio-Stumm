@@ -140,7 +140,7 @@
 <br><br><br>
 
 <h2 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h2>
-<img align="right" src="https://i.pinimg.com/originals/aa/a7/f9/aaa7f900349954d1c002ba688c0f2156.gif" height="415px" width="300px" alt="projects image">
+<img align="right" src="https://i.pinimg.com/originals/aa/a7/f9/aaa7f900349954d1c002ba688c0f2156.gif" height="500px" width="415px" alt="projects image">
 <table height="495px">
   <tr>
     <td>
