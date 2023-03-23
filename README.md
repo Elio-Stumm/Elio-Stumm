@@ -314,6 +314,12 @@
 <br>
 
 <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=luk4x&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&logoColor=BF91F3&color=70A5FD" alt="luk4x profile visitors" height="40px" />
+    
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
   
 <!--
 - 🔭 I’m currently working on ...
