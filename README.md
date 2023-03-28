@@ -13,7 +13,7 @@
 <br>
 
 <h2 align="center">🤖 &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
-<img align="left" width="390px" alt="quote" src="https://s.aficionados.com.br/imagens/frases-naruto-2_cke.jpg"/>
+<img align="left" width="360px" alt="quote" src="https://s.aficionados.com.br/imagens/frases-naruto-2_cke.jpg"/>
 <table align="right" height="267px">
   <tr>
     <td align="center">
