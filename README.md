@@ -303,15 +303,10 @@
     <br/>
     <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Elio-Stumm&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
     <br/><br/>
-    <img align="left" height="415px" src="https://Luk4x-github-readme-stats.vercel.app/api/top-langs?username=Elio-Stumm&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
-    <div align="right">
       <img height="203px" src="https://Luk4xx-github-readme-stats.vercel.app/api?username=Elio-Stumm&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
       <img height="203px" src="https://streak-stats.demolab.com?user=Elio-Stumm&theme=tokyonight&hide_border=true" />
     </div>
     <br/>
-    <img align="center" src="https://Luk4x-github-readme-stats.vercel.app/api/wakatime?username=Elio-Stumm&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
-  </details>
-<br>
 
 <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Elio-Stumm&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&logoColor=BF91F3&color=70A5FD" alt="Elio-Stumm profile visitors" height="40px" />
   
