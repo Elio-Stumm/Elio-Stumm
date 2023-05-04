@@ -307,7 +307,6 @@
       <img height="203px" src="https://streak-stats.demolab.com?user=Elio-Stumm&theme=tokyonight&hide_border=true" />
     </div>
     <br/>
-
 <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Elio-Stumm&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&logoColor=BF91F3&color=70A5FD" alt="Elio-Stumm profile visitors" height="40px" />
   
 <!--
